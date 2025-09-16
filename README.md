@@ -1,10 +1,10 @@
-### Файлы для работы кастомного пункта контекстного меню Hidden Image Converter.
-
+### Файлы для работы кастомного пункта контекстного меню Hidden Image Converter в WinClean.
+#
 ![Описание изображения](https://i.ibb.co/GvmrsgL1/B20-C9-E51-4-ADF-4-AC5-A6-C1-483-A4219-BFF9.png)
 
 ![Скачиваний](https://img.shields.io/github/downloads/MartyFiles/Hidden-Image-Converter/Release/total?style=for-the-badge&label=Скачиваний&color=blue&logo=download)
 
-___
+#
 
 Утилита WinClean доступна подписчикам [MartyPlus](https://t.me/martyfiles/1146).
 
